@@ -4,8 +4,8 @@
 I am a systems engineering student at **Universidad Tecnológica Nacional - Facultad Regional Buenos Aires** (UTN FRBA). Passionate about technology, programming, and innovation, I am constantly seeking new challenges and opportunities to learn and grow professionally.
 
 ### Contact
-<a target="_blank" href="https://www.linkedin.com/in/julianbuffoni"><img align="left" alt="Java" width="30px" style="padding-right:10px;" src="docs/linkedin-original.svg"/><a/>
-<a target="_blank" href="mailto:julian_buffoni@protonmail.com"><img align="left" alt="Java" width="30px" style="padding-right:10px;" src="docs/tc-mail.svg"/><a/>
+<a target="_blank" href="https://www.linkedin.com/in/julianbuffoni"><img align="left" alt="LinkedIn" width="30px" style="padding-right:10px;" src="docs/linkedin-original.svg"/><a/>
+<a target="_blank" href="mailto:julian_buffoni@protonmail.com"><img align="left" alt="Email" width="30px" style="padding-right:10px;" src="docs/tc-mail.svg"/><a/>
 <br/>
 
 ---
@@ -20,8 +20,8 @@ I am a systems engineering student at **Universidad Tecnológica Nacional - Facu
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="docs/cplusplus-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="docs/github-original.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="docs/bash-original.svg" />
-<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="docs/postgresql-original-wordmark.svg" />
-<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="docs/go-original-wordmark.svg" />
+<img align="left" alt="PostgreSQL" width="30px" style="padding-right:10px;" src="docs/postgresql-original-wordmark.svg" />
+<img align="left" alt="Go" width="30px" style="padding-right:10px;" src="docs/go-original-wordmark.svg" />
 <br/>
           
 ---
