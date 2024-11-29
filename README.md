@@ -6,8 +6,8 @@
 Soy un estudiante de ingeniería en sistemas en la **Universidad Tecnológica Nacional - Facultad Regional Buenos Aires** (UTN FRBA). Apasionado por la tecnología, la programación y la innovación, estoy constantemente buscando nuevos desafíos y oportunidades para aprender y crecer profesionalmente.
 
 ### Contacto
-- 🔗 LinkedIn: [Perfil de LinkedIn](https://www.linkedin.com/in/julianbuffoni/)
-- 📧 Email: [julian_buffoni@protonmail.com]
+- 🔗 LinkedIn: [linkedin.com/in/julianbuffoni](https://www.linkedin.com/in/julianbuffoni/?locale=es_AR)
+- 📧 Email: [julian_buffoni@protonmail.com](mailto:julian_buffoni@protonmail.com)
 
 # 🇬🇧 English
 
@@ -17,8 +17,8 @@ Soy un estudiante de ingeniería en sistemas en la **Universidad Tecnológica Na
 I am a systems engineering student at **Universidad Tecnológica Nacional - Facultad Regional Buenos Aires** (UTN FRBA). Passionate about technology, programming, and innovation, I am constantly seeking new challenges and opportunities to learn and grow professionally.
 
 ### Contact
-- 🔗 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/julianbuffoni)
-- 📧 Email: [julian_buffoni@protonmail.com]
+- 🔗 LinkedIn: [linkedin.com/in/julianbuffoni](https://www.linkedin.com/in/julianbuffoni/?locale=en_US)
+- 📧 Email: [julian_buffoni@protonmail.com](mailto:julian_buffoni@protonmail.com)
 
 ---
 
